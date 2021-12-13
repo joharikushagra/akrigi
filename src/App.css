@@ -6,7 +6,6 @@
   text-align: center;
   justify-content: center;
   align-items: center;
-  /* font-size: 14px; */
 }
 
 .dots{
@@ -14,6 +13,7 @@
   flex-direction: row;
   margin-top: 0;
   margin-bottom: 0;
+  font-size: 40px;
 }
 
 .subhead{
@@ -26,4 +26,8 @@
 
 .button-div{
   margin-top: 2rem;
+}
+
+.button{
+  font-size: 22px;
 }
